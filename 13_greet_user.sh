@@ -1,4 +1,4 @@
 echo -n "What is your name : "
-read nm
+read name
 
-echo "Hii $nm"
+echo "Hii $name"
