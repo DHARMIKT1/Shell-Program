@@ -17,6 +17,7 @@ do
 	for ((i=1;i<m; i++))
 	do
 		echo -ne "#"
+  
 	done
 
 	echo ""
