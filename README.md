@@ -18,4 +18,4 @@ Here are some of the scripts included in this repository:
 3. **right_aligned_pattern.sh**: A script to print a right-aligned pattern of asterisks.
 
 ## License
-This repository is licensed under the MIT License. See the LICENSE file for more information.
+This repository is licensed under the Unlicense. See the UNLICENSE file for more information.
